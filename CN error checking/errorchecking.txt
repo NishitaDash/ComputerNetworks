@@ -1,0 +1,4 @@
+error detection and correction is done in both transport layer and data link layer.
+In the data link layer we check for the error bit by bit.
+types of error:
+single bit error and burst error
